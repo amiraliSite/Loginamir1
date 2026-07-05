@@ -1,5 +1,32 @@
 # React + TypeScript + Vite
 
+✅ طراحی Liquid Glass (شیشه مایع) با افکت backdrop-blur
+✅ ویدیو پس‌زمینه متحرک با fade-in/fade-out نرم
+✅ افکت ستاره‌های چشمک‌زن در پس‌زمینه
+✅ استفاده از فونت‌های سفارشی (Instrument Serif و Barlow)
+✅ آیکون‌های مدرن با Lucide React
+✅ طراحی کاملاً ریسپانسیو برای موبایل و دسکتاپ
+✅ تم تاریک (Dark Mode) با المان‌های شفاف
+✅ امنیت و اعتبارسنجی
+✅ بررسی قدرت رمز عبور به صورت Real-time
+✅ نوار پیشرفت رنگی برای نمایش سطح امنیت
+✅ نمایش ۵ معیار امنیتی رمز (طول، حرف بزرگ، حرف کوچک، عدد، کاراکتر خاص)
+✅ ۴ سطح قدرت: ضعیف، متوسط، خوب، قوی
+✅ دکمه نمایش/مخفی کردن رمز عبور
+✅ انیمیشن‌ها و تعاملات
+✅ انیمیشن‌های روان با Framer Motion
+✅ افکت Confetti (جشن) هنگام ورود موفق
+✅ ترنزیشن نرم بین صفحات با AnimatePresence
+✅ انیمیشن blur و scale برای ورود المان‌ها
+✅   با آیکون چرخان
+✅ افکت hover و tap روی دکمه‌ها
+✅ عملکرد و UX
+✅ فرم لاگین با اعتبارسنجی
+✅ شبیه‌سازی پروسه لاگین
+✅ صفحه موفقیت با نمایش اطلاعات کاربر
+✅ دکمه خروج و بازگشت به صفحه لاگین
+✅ مدیریت state با React Hooks
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
